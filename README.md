@@ -24,4 +24,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=merko)
