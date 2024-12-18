@@ -1,4 +1,4 @@
-# Cho Hyeon Sang 😉
+# 😉 Cho Hyeon Sang
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr778)](https://solved.ac/kyr778/)
 [![CodeForces Profile](https://cf.leed.at?id=kyr778)](https://codeforces.com/profile/kyr778)
@@ -26,5 +26,10 @@
 
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+
+# 🚀 Currently Exploring : <img src="https://github.com/user-attachments/assets/d0535479-2135-4718-b33c-c5c6847aea85" alt="Sample Image" width="120" />
+
+- Transitioning from **LangChain** to **LangGraph** for more efficient workflows.
+- Optimizing **LangGraph** to enhance performance and scalability.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=merko)
