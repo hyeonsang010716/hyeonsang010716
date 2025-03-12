@@ -6,9 +6,7 @@
 
 ## 📈 Growing with Algorithms
 
-<img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr778" /> <img width=300 src="http://mazandi.herokuapp.com/api?handle=kyr778&theme=white"/> 
-
-<img width=400 src="https://cf.leed.at?id=kyr778" /> 
+<img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr778" /> <img width=400 src="https://cf.leed.at?id=kyr778" /> 
 
 ## 💪Skills
 ### Platforms & Languages
