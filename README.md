@@ -46,3 +46,7 @@
 ## 🚀 Currently Exploring : <img src="https://github.com/user-attachments/assets/d0535479-2135-4718-b33c-c5c6847aea85" alt="Sample Image" width="120" />
 - Transitioning from **LangChain** to **LangGraph** for more efficient workflows.
 - Optimizing **LangGraph** to enhance performance and scalability.
+
+### 2025
+- Enhancing AI solution performance using MCP (Model Context Protocol) technology.
+- Advancing LMM (Large Memory Models) and LAM (Language Agent Models) capabilities.
