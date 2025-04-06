@@ -2,7 +2,7 @@
 
 #### LLM Agent Developer passionate about creating intelligent and scalable AI solutions. 🔥
 
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=merko" />
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=tokyonight" />
 
 ## 📈 Growing with Algorithms
 
@@ -44,7 +44,8 @@
 ![GoogleGemini](https://img.shields.io/badge/GoogleGemini-8E75B2.svg?&style=for-the-badge&logo=GoogleGemini&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/Huggingface-FFD21E.svg?&style=for-the-badge&logo=Huggingface&logoColor=white)
 
-## 🚀 Currently Exploring : <img src="https://github.com/user-attachments/assets/d0535479-2135-4718-b33c-c5c6847aea85" alt="Sample Image" width="120" />
+## 🚀 Currently Exploring : <img src="https://github.com/user-attachments/assets/d0535479-2135-4718-b33c-c5c6847aea85" alt="Sample Image" width="120" /> , <img src="https://github.com/user-attachments/assets/4579ba12-c880-4e6c-bd8b-eb1b02e947b6" alt="Sample Image" width="120" /> 
+
 - Transitioning from **LangChain** to **LangGraph** for more efficient workflows.
 - Optimizing **LangGraph** to enhance performance and scalability.
 
