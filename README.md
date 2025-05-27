@@ -3,11 +3,11 @@
 
 #### LLM Agent Developer passionate about creating intelligent and scalable AI solutions. 🔥
 
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=tokyonight" />
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=tokyonight" /> ![image](https://github.com/user-attachments/assets/208926d3-9404-42d3-b4b7-7368ea2eb0f6)
 
 ## 📈 Growing with Algorithms
 
-<img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr778" /> <img width=400 src="https://cf.leed.at?id=kyr778" /> 
+<img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr778" /> <img width=400 src="https://cf.leed.at?id=kyr778" />
 
 ## 💪Skills
 ### Platforms & Languages
