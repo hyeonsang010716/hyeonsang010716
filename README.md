@@ -1,5 +1,4 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/2828/2828957.png" width="40"> Cho Hyeon Sang
-🔗 [Visit My Portfolio](https://hyeonsang-cho.vercel.app/)
 
 #### LLM Agent Developer passionate about creating intelligent and scalable AI solutions. 🔥
 
