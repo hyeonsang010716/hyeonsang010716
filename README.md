@@ -14,6 +14,7 @@
 
 ![langgraph](https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=for-the-badge&logo=langgraph&logoColor=white)
 ![langchain](https://img.shields.io/badge/langchain-1C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
