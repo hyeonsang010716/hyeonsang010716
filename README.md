@@ -2,7 +2,7 @@
 
 #### LLM Agent Developer passionate about creating intelligent and scalable AI solutions. 🔥
 
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=hyeonsang010716&count_private=true&hide=contribs&show_icons=true&theme=tokyonight" /> ![image](https://github.com/user-attachments/assets/208926d3-9404-42d3-b4b7-7368ea2eb0f6)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
 
 ## 📈 Growing with Algorithms
 
