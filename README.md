@@ -1,10 +1,10 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/2828/2828957.png" width="40"> Cho Hyeon Sang
+# Cho Hyeon Sang
 
-#### LLM Agent Developer · Shipping AI services to production · Contributor to DeerFlow & OpenAI Agents SDK 🔥
+#### LLM Agent Developer · Shipping AI services to production · Contributor to DeerFlow & OpenAI Agents SDK
 
 ![Hyeonsang's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
 
-## 🚀 What I Do
+## What I Do
 
 > **I build AI services end-to-end — from an empty repo to production.**
 
@@ -12,7 +12,7 @@
 - **Beyond Python** — Studied Spring to push past Python's backend limits, then migrated a FastAPI backend to Spring.
 - **Open Source** — Shipping fixes to widely used AI agent frameworks.
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
 | Project | Org | Merged | Focus |
 |:--|:--|:--:|:--|
@@ -21,7 +21,7 @@
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
 
 <details>
-<summary><b>✨ Highlights</b></summary>
+<summary><b>Highlights</b></summary>
 
 <br>
 
@@ -42,7 +42,7 @@
 
 </details>
 
-## 💪 Skills
+## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -62,12 +62,12 @@
 ![GithubActions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
-## ❤️ Falling in Love with AI
+## AI Platforms
 ![Openai](https://img.shields.io/badge/Openai-412991.svg?&style=for-the-badge&logo=Openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757.svg?&style=for-the-badge&logo=Claude&logoColor=white)
 ![GoogleGemini](https://img.shields.io/badge/GoogleGemini-8E75B2.svg?&style=for-the-badge&logo=GoogleGemini&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/Huggingface-FFD21E.svg?&style=for-the-badge&logo=Huggingface&logoColor=white)
 
-## 📈 Growing with Algorithms
+## Algorithms
 
 <img width=300 src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kyr778" /> <img width=400 src="https://cf.leed.at?id=kyr778" />
