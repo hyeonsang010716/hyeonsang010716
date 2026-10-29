@@ -2,7 +2,7 @@
 
 #### LLM Agent Developer · Shipping AI services to production · Contributor to DeerFlow, OpenAI Agents SDK & Google ADK
 
-![Hyeonsang's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
+![Hyeonsang's GitHub stats](https://github-stats-extended.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
 
 ## What I Do
 
