@@ -1,6 +1,6 @@
 # Cho Hyeon Sang
 
-#### LLM Agent Developer · Shipping AI services to production · Contributor to DeerFlow & OpenAI Agents SDK
+#### LLM Agent Developer · Shipping AI services to production · Contributor to DeerFlow, OpenAI Agents SDK & Google ADK
 
 ![Hyeonsang's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
 
@@ -17,7 +17,8 @@
 | Project | Org | Merged | Focus |
 |:--|:--|:--:|:--|
 | [**DeerFlow**](https://github.com/bytedance/deer-flow) ![stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=%E2%98%85) | ByteDance | [![merged PRs](https://img.shields.io/github/issues-search/bytedance/deer-flow?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Security hardening, distributed runtime, observability |
-| [**OpenAI Agents SDK**](https://github.com/openai/openai-agents-python) ![stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square&label=%E2%98%85) | OpenAI | [![merged PRs](https://img.shields.io/github/issues-search/openai/openai-agents-python?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/openai/openai-agents-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Sandbox, run resumption |
+| [**OpenAI Agents SDK**](https://github.com/openai/openai-agents-python) ![stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square&label=%E2%98%85) | OpenAI | [![merged PRs](https://img.shields.io/github/issues-search/openai/openai-agents-python?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/openai/openai-agents-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | MCP, run resumption, sandbox, tracing |
+| [**Google ADK**](https://github.com/google/adk-python) ![stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square&label=%E2%98%85) | Google | [![merged PRs](https://img.shields.io/github/issues-search/google/adk-python?query=is%3Apr%20is%3Aclosed%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/google/adk-python/pulls?q=is%3Apr+is%3Aclosed+author%3Ahyeonsang010716) | Session state |
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
 
 <details>
@@ -33,8 +34,13 @@
 - [Stopped checkpointing `view_image` base64 payloads](https://github.com/bytedance/deer-flow/pull/5014)
 
 **OpenAI · openai-agents-python**
+- [Kept MCP Streamable HTTP sessions alive through a transient 5xx](https://github.com/openai/openai-agents-python/pull/5061)
 - [Delivered tool-not-found output on server-managed resume](https://github.com/openai/openai-agents-python/pull/4947)
 - [Kept sandbox command paths POSIX on a Windows host](https://github.com/openai/openai-agents-python/pull/4958)
+- [Let tracing pick up an `OPENAI_API_KEY` set after startup](https://github.com/openai/openai-agents-python/pull/5017)
+
+**Google · adk-python**
+- [Stopped session rewind from wiping `create_session` state](https://github.com/google/adk-python/pull/7118)
 
 **HKUDS · DeepTutor**
 - [Raised streamed provider errors instead of answering with them](https://github.com/HKUDS/DeepTutor/pull/1298)
