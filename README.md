@@ -18,7 +18,8 @@
 |:--|:--|:--:|:--|
 | [**DeerFlow**](https://github.com/bytedance/deer-flow) ![stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=%E2%98%85) | ByteDance | [![merged PRs](https://img.shields.io/github/issues-search/bytedance/deer-flow?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Security hardening, distributed runtime, observability |
 | [**OpenAI Agents SDK**](https://github.com/openai/openai-agents-python) ![stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square&label=%E2%98%85) | OpenAI | [![merged PRs](https://img.shields.io/github/issues-search/openai/openai-agents-python?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/openai/openai-agents-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | MCP, run resumption, sandbox, tracing |
-| [**Google ADK**](https://github.com/google/adk-python) ![stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square&label=%E2%98%85) | Google | [![merged PRs](https://img.shields.io/github/issues-search/google/adk-python?query=is%3Apr%20is%3Aclosed%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/google/adk-python/pulls?q=is%3Apr+is%3Aclosed+author%3Ahyeonsang010716) | Session state |
+| [**Google ADK**](https://github.com/google/adk-python) ![stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square&label=%E2%98%85) | Google | [![merged PRs](https://img.shields.io/github/issues-search/google/adk-python?query=is%3Apr%20is%3Aclosed%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/google/adk-python/pulls?q=is%3Apr+is%3Aclosed+author%3Ahyeonsang010716) | Session state, memory |
+| [**LangChain Redis**](https://github.com/langchain-ai/langchain-redis) ![stars](https://img.shields.io/github/stars/langchain-ai/langchain-redis?style=flat-square&label=%E2%98%85) | LangChain | [![merged PRs](https://img.shields.io/github/issues-search/langchain-ai/langchain-redis?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langchain-ai/langchain-redis/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Semantic cache, index migration |
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
 
 <details>
@@ -40,7 +41,11 @@
 - [Let tracing pick up an `OPENAI_API_KEY` set after startup](https://github.com/openai/openai-agents-python/pull/5017)
 
 **Google · adk-python**
+- [Stopped private model reasoning from reaching Memory Bank](https://github.com/google/adk-python/pull/7851)
 - [Stopped session rewind from wiping `create_session` state](https://github.com/google/adk-python/pull/7118)
+
+**LangChain · langchain-redis**
+- [Stopped models from overwriting each other's semantic cache entries, with a rerunnable migration](https://github.com/langchain-ai/langchain-redis/pull/220)
 
 **HKUDS · DeepTutor**
 - [Raised streamed provider errors instead of answering with them](https://github.com/HKUDS/DeepTutor/pull/1298)
