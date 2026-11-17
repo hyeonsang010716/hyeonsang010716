@@ -23,6 +23,7 @@
 | [**LangChain Redis**](https://github.com/langchain-ai/langchain-redis) ![stars](https://img.shields.io/github/stars/langchain-ai/langchain-redis?style=flat-square&label=%E2%98%85) | LangChain | [![merged PRs](https://img.shields.io/github/issues-search/langchain-ai/langchain-redis?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langchain-ai/langchain-redis/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Semantic cache, index migration |
 | [**RedisVL**](https://github.com/redis/redis-vl-python) ![stars](https://img.shields.io/github/stars/redis/redis-vl-python?style=flat-square&label=%E2%98%85) | Redis | [![merged PRs](https://img.shields.io/github/issues-search/redis/redis-vl-python?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/redis/redis-vl-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Hybrid search |
 | [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) ![stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=%E2%98%85) | Nous Research | [![merged PRs](https://img.shields.io/github/issues-search/NousResearch/hermes-agent?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document-reading plugin |
+| [**Dify Plugins**](https://github.com/langgenius/dify-plugins) ![stars](https://img.shields.io/github/stars/langgenius/dify-plugins?style=flat-square&label=%E2%98%85) | Dify | [![merged PRs](https://img.shields.io/github/issues-search/langgenius/dify-plugins?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document-reading plugin |
 | [**pycrdt**](https://github.com/y-crdt/pycrdt) ![stars](https://img.shields.io/github/stars/y-crdt/pycrdt?style=flat-square&label=%E2%98%85) | y-crdt | [![merged PRs](https://img.shields.io/github/issues-search/y-crdt/pycrdt?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/y-crdt/pycrdt/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Transaction safety, error handling |
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
 
@@ -59,6 +60,9 @@
 
 **Nous Research · hermes-agent**
 - [Shipped my OpenDocKit plugin to the official catalog, letting Hermes read PDF, Office and HWP files as Markdown](https://github.com/NousResearch/hermes-agent/pull/154889)
+
+**Dify · dify-plugins**
+- [Published my OpenDocKit plugin to the Dify Marketplace, adding the HWP/HWPX support Dify's built-in extractors lack](https://github.com/langgenius/dify-plugins/pull/3792)
 
 **y-crdt · pycrdt**
 - [Fixed snapshots freezing the whole process when taken inside a transaction](https://github.com/y-crdt/pycrdt/pull/466)
