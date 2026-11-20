@@ -1,6 +1,6 @@
 # Cho Hyeon Sang
 
-#### LLM Agent Developer · Shipping AI services to production · Contributor to DeerFlow, OpenAI Agents SDK & Google ADK
+#### LLM Agent Developer · Creator of OpenDocKit · Contributor to DeerFlow, OpenAI Agents SDK & Google ADK
 
 ![Hyeonsang's GitHub stats](https://github-stats-extended.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
 
@@ -10,7 +10,34 @@
 
 - **Zero → Production, repeatedly** — Built, deployed, and operated AI services for real companies, from the first line of code through day-to-day operations.
 - **Beyond Python** — Studied Spring to push past Python's backend limits, then migrated a FastAPI backend to Spring.
-- **Open Source** — Shipping fixes to widely used AI agent frameworks.
+- **Open Source** — Building OpenDocKit, and shipping fixes to widely used AI agent frameworks.
+
+## Featured Project
+
+<p align="center">
+  <a href="https://github.com/hyeonsang010716/OpenDocKit">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyeonsang010716/OpenDocKit/main/docs/assets/banner-dark.png">
+      <img src="https://raw.githubusercontent.com/hyeonsang010716/OpenDocKit/main/docs/assets/banner-light.png" alt="OpenDocKit" width="640">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/hyeonsang010716/OpenDocKit">OpenDocKit</a></b> — Turn any document into clean, LLM-ready Markdown.<br>
+  PDF, Office, HWP/HWPX and more, in one function, with no GPU.
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/opendockit/"><img alt="PyPI" src="https://img.shields.io/pypi/v/opendockit?style=flat-square"></a>
+  <a href="https://pepy.tech/projects/opendockit"><img alt="Downloads" src="https://img.shields.io/pepy/dt/opendockit?style=flat-square&label=downloads"></a>
+  <a href="https://github.com/NousResearch/hermes-agent/blob/main/plugin-catalog/opendockit.yaml"><img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes%20Agent-plugin%20catalog-6e56cf?style=flat-square"></a>
+  <a href="https://marketplace.dify.ai/plugin/hyeonsang010716/opendockit"><img alt="Dify Marketplace" src="https://img.shields.io/badge/Dify-Marketplace-155eef?style=flat-square"></a>
+</p>
+
+- **Keeps the most structure** — 49/49 structure checks in its [open benchmark](https://github.com/hyeonsang010716/OpenDocKit/blob/main/benchmarks/README.md), vs. 36 for Docling and 31 for MarkItDown
+- **The only one that reads HWP/HWPX** of the five tools compared, with an HWP 5.x parser written from scratch
+- **Built for agents** — MCP server, LangChain, LlamaIndex, Open WebUI and Claude Code; reviewed into the Hermes Agent catalog and the Dify Marketplace
 
 ## Open Source Contributions
 
