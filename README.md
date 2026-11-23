@@ -55,6 +55,7 @@
 | [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) ![stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=%E2%98%85) | Nous Research | [![merged PRs](https://img.shields.io/github/issues-search/NousResearch/hermes-agent?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document-reading plugin |
 | [**Dify Plugins**](https://github.com/langgenius/dify-plugins) ![stars](https://img.shields.io/github/stars/langgenius/dify-plugins?style=flat-square&label=%E2%98%85) | Dify | [![merged PRs](https://img.shields.io/github/issues-search/langgenius/dify-plugins?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document-reading plugin |
 | [**pycrdt**](https://github.com/y-crdt/pycrdt) ![stars](https://img.shields.io/github/stars/y-crdt/pycrdt?style=flat-square&label=%E2%98%85) | y-crdt | [![merged PRs](https://img.shields.io/github/issues-search/y-crdt/pycrdt?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/y-crdt/pycrdt/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Transaction safety, error handling |
+| [**Presenton**](https://github.com/presenton/presenton) ![stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&label=%E2%98%85) | Presenton | [![merged PRs](https://img.shields.io/github/issues-search/presenton/presenton?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/presenton/presenton/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Desktop app startup |
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
 
 <details>
@@ -109,6 +110,9 @@
 - [Kept a document usable after an observer callback raises](https://github.com/y-crdt/pycrdt/pull/465)
 - [Stopped `UndoManager` from losing undo steps during a transaction](https://github.com/y-crdt/pycrdt/pull/472)
 - [Let observers save or broadcast a document without panicking](https://github.com/y-crdt/pycrdt/pull/481)
+
+**Presenton · presenton**
+- [Fixed port probing that marked busy ports as free on macOS, breaking desktop app startup](https://github.com/presenton/presenton/pull/1027)
 
 **HKUDS · DeepTutor**
 - [Raised streamed provider errors instead of answering with them](https://github.com/HKUDS/DeepTutor/pull/1298)
