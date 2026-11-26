@@ -1,6 +1,6 @@
 # Cho Hyeon Sang
 
-#### LLM Agent Developer · Creator of OpenDocKit · Contributor to DeerFlow, OpenAI Agents SDK & Google ADK
+#### LLM Agent Developer · Creator of OpenDocKit · Open-source contributor to OpenAI, Google & AWS
 
 ![Hyeonsang's GitHub stats](https://github-stats-extended.vercel.app/api?username=hyeonsang010716&show_icons=true&theme=tokyonight&hide=issues)
 
@@ -41,6 +41,36 @@
 
 ## Open Source Contributions
 
+<p align="center"><b>250 merged PRs across 15 open-source projects</b></p>
+
+<p align="center">
+  <a href="https://github.com/openai/openai-agents-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/openai.png?size=96" width="44" alt="OpenAI" title="OpenAI"></a>
+  <a href="https://github.com/google/adk-python/pulls?q=is%3Apr+is%3Aclosed+author%3Ahyeonsang010716"><img src="https://github.com/google.png?size=96" width="44" alt="Google" title="Google"></a>
+  <a href="https://github.com/aws-powertools/powertools-lambda-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/aws.png?size=96" width="44" alt="AWS" title="AWS"></a>
+  <a href="https://github.com/huggingface/huggingface_hub/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/huggingface.png?size=96" width="44" alt="Hugging Face" title="Hugging Face"></a>
+  <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/bytedance.png?size=96" width="44" alt="ByteDance" title="ByteDance"></a>
+  <a href="https://github.com/langchain-ai/langchain-azure/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/langchain-ai.png?size=96" width="44" alt="LangChain" title="LangChain"></a>
+  <a href="https://github.com/redis/redis-vl-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/redis.png?size=96" width="44" alt="Redis" title="Redis"></a>
+  <a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/NousResearch.png?size=96" width="44" alt="Nous Research" title="Nous Research"></a>
+  <a href="https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/langgenius.png?size=96" width="44" alt="Dify" title="Dify"></a>
+  <a href="https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/HKUDS.png?size=96" width="44" alt="HKUDS" title="HKUDS"></a>
+  <a href="https://github.com/presenton/presenton/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/presenton.png?size=96" width="44" alt="Presenton" title="Presenton"></a>
+  <a href="https://github.com/y-crdt/pycrdt/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/y-crdt.png?size=96" width="44" alt="y-crdt" title="y-crdt"></a>
+</p>
+
+**Selected work**
+- **OpenAI** — [Kept MCP Streamable HTTP sessions alive through a transient 5xx](https://github.com/openai/openai-agents-python/pull/5061)
+- **Google** — [Stopped private model reasoning from reaching Memory Bank](https://github.com/google/adk-python/pull/7851)
+- **AWS** — [Stopped Bedrock Agent tool context from leaking into the next Lambda invocation](https://github.com/aws-powertools/powertools-lambda-python/pull/8874)
+- **Hugging Face** — [Fixed `HfFileSystem.modified()` returning a repo's creation date instead of its latest commit](https://github.com/huggingface/huggingface_hub/pull/5326)
+- **ByteDance** — [Closed two bypasses of the prompt-injection guardrail](https://github.com/bytedance/deer-flow/pull/5375)
+- **LangChain** — [Stopped models from overwriting each other's semantic cache entries, with a rerunnable migration](https://github.com/langchain-ai/langchain-redis/pull/220)
+
+<details>
+<summary><b>All 15 projects and highlights</b></summary>
+
+<br>
+
 | Project | Org | Merged | Focus |
 |:--|:--|:--:|:--|
 | [**DeerFlow**](https://github.com/bytedance/deer-flow) ![stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=%E2%98%85) | ByteDance | [![merged PRs](https://img.shields.io/github/issues-search/bytedance/deer-flow?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Security hardening, distributed runtime, observability |
@@ -48,6 +78,7 @@
 | [**Codex Security**](https://github.com/openai/codex-security) ![stars](https://img.shields.io/github/stars/openai/codex-security?style=flat-square&label=%E2%98%85) | OpenAI | [![merged PRs](https://img.shields.io/github/issues-search/openai/codex-security?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/openai/codex-security/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Findings index |
 | [**Google ADK**](https://github.com/google/adk-python) ![stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square&label=%E2%98%85) | Google | [![merged PRs](https://img.shields.io/github/issues-search/google/adk-python?query=is%3Apr%20is%3Aclosed%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/google/adk-python/pulls?q=is%3Apr+is%3Aclosed+author%3Ahyeonsang010716) | Session state, memory |
 | [**Data Validation Tool**](https://github.com/GoogleCloudPlatform/professional-services-data-validator) ![stars](https://img.shields.io/github/stars/GoogleCloudPlatform/professional-services-data-validator?style=flat-square&label=%E2%98%85) | Google Cloud | [![merged PRs](https://img.shields.io/github/issues-search/GoogleCloudPlatform/professional-services-data-validator?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | PostgreSQL result handler |
+| [**Powertools for AWS Lambda**](https://github.com/aws-powertools/powertools-lambda-python) ![stars](https://img.shields.io/github/stars/aws-powertools/powertools-lambda-python?style=flat-square&label=%E2%98%85) | AWS | [![merged PRs](https://img.shields.io/github/issues-search/aws-powertools/powertools-lambda-python?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/aws-powertools/powertools-lambda-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Bedrock Agent event handler |
 | [**Hugging Face Hub**](https://github.com/huggingface/huggingface_hub) ![stars](https://img.shields.io/github/stars/huggingface/huggingface_hub?style=flat-square&label=%E2%98%85) | Hugging Face | [![merged PRs](https://img.shields.io/github/issues-search/huggingface/huggingface_hub?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/huggingface/huggingface_hub/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | `HfFileSystem` metadata |
 | [**LangChain Azure**](https://github.com/langchain-ai/langchain-azure) ![stars](https://img.shields.io/github/stars/langchain-ai/langchain-azure?style=flat-square&label=%E2%98%85) | LangChain | [![merged PRs](https://img.shields.io/github/issues-search/langchain-ai/langchain-azure?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langchain-ai/langchain-azure/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Azure AI tools |
 | [**LangChain Redis**](https://github.com/langchain-ai/langchain-redis) ![stars](https://img.shields.io/github/stars/langchain-ai/langchain-redis?style=flat-square&label=%E2%98%85) | LangChain | [![merged PRs](https://img.shields.io/github/issues-search/langchain-ai/langchain-redis?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langchain-ai/langchain-redis/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Semantic cache, index migration |
@@ -59,7 +90,7 @@
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
 
 <details>
-<summary><b>Highlights</b></summary>
+<summary><b>Highlights by project</b></summary>
 
 <br>
 
@@ -85,6 +116,9 @@
 
 **Google Cloud · professional-services-data-validator**
 - [Made PostgreSQL validation labels queryable, and stopped a quote in one from dropping all results](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1900)
+
+**AWS · powertools-lambda-python**
+- [Stopped Bedrock Agent tool context from leaking into the next Lambda invocation](https://github.com/aws-powertools/powertools-lambda-python/pull/8874)
 
 **Hugging Face · huggingface_hub**
 - [Fixed `HfFileSystem.modified()` returning a repo's creation date instead of its latest commit](https://github.com/huggingface/huggingface_hub/pull/5326)
@@ -117,6 +151,8 @@
 **HKUDS · DeepTutor**
 - [Raised streamed provider errors instead of answering with them](https://github.com/HKUDS/DeepTutor/pull/1298)
 - [Cancelled the capability when a turn is stopped](https://github.com/HKUDS/DeepTutor/pull/1413)
+
+</details>
 
 </details>
 
