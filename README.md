@@ -37,11 +37,11 @@
 
 - **Keeps the most structure** — 49/49 structure checks in its [open benchmark](https://github.com/hyeonsang010716/OpenDocKit/blob/main/benchmarks/README.md), vs. 36 for Docling and 31 for MarkItDown
 - **The only one that reads HWP/HWPX** of the five tools compared, with an HWP 5.x parser written from scratch
-- **Built for agents** — MCP server, LangChain, LlamaIndex, Open WebUI and Claude Code; reviewed into the Hermes Agent catalog and the Dify Marketplace
+- **Built for agents** — MCP server, LangChain, LlamaIndex, Open WebUI and Claude Code; reviewed into the Hermes Agent catalog and the Dify Marketplace, and listed as a LightRAG parser engine
 
 ## Open Source Contributions
 
-<p align="center"><b>250 merged PRs across 15 open-source projects</b></p>
+<p align="center"><b>260 merged PRs across 16 open-source projects</b></p>
 
 <p align="center">
   <a href="https://github.com/openai/openai-agents-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/openai.png?size=96" width="44" alt="OpenAI" title="OpenAI"></a>
@@ -53,7 +53,7 @@
   <a href="https://github.com/redis/redis-vl-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/redis.png?size=96" width="44" alt="Redis" title="Redis"></a>
   <a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/NousResearch.png?size=96" width="44" alt="Nous Research" title="Nous Research"></a>
   <a href="https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/langgenius.png?size=96" width="44" alt="Dify" title="Dify"></a>
-  <a href="https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/HKUDS.png?size=96" width="44" alt="HKUDS" title="HKUDS"></a>
+  <a href="https://github.com/HKUDS/LightRAG/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/HKUDS.png?size=96" width="44" alt="HKUDS" title="HKUDS"></a>
   <a href="https://github.com/presenton/presenton/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/presenton.png?size=96" width="44" alt="Presenton" title="Presenton"></a>
   <a href="https://github.com/y-crdt/pycrdt/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716"><img src="https://github.com/y-crdt.png?size=96" width="44" alt="y-crdt" title="y-crdt"></a>
 </p>
@@ -67,7 +67,7 @@
 - **LangChain** — [Stopped models from overwriting each other's semantic cache entries, with a rerunnable migration](https://github.com/langchain-ai/langchain-redis/pull/220)
 
 <details>
-<summary><b>All 15 projects and highlights</b></summary>
+<summary><b>All 16 projects and highlights</b></summary>
 
 <br>
 
@@ -85,9 +85,10 @@
 | [**RedisVL**](https://github.com/redis/redis-vl-python) ![stars](https://img.shields.io/github/stars/redis/redis-vl-python?style=flat-square&label=%E2%98%85) | Redis | [![merged PRs](https://img.shields.io/github/issues-search/redis/redis-vl-python?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/redis/redis-vl-python/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Hybrid search |
 | [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) ![stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=%E2%98%85) | Nous Research | [![merged PRs](https://img.shields.io/github/issues-search/NousResearch/hermes-agent?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document-reading plugin |
 | [**Dify Plugins**](https://github.com/langgenius/dify-plugins) ![stars](https://img.shields.io/github/stars/langgenius/dify-plugins?style=flat-square&label=%E2%98%85) | Dify | [![merged PRs](https://img.shields.io/github/issues-search/langgenius/dify-plugins?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/langgenius/dify-plugins/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document-reading plugin |
-| [**pycrdt**](https://github.com/y-crdt/pycrdt) ![stars](https://img.shields.io/github/stars/y-crdt/pycrdt?style=flat-square&label=%E2%98%85) | y-crdt | [![merged PRs](https://img.shields.io/github/issues-search/y-crdt/pycrdt?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/y-crdt/pycrdt/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Transaction safety, error handling |
-| [**Presenton**](https://github.com/presenton/presenton) ![stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&label=%E2%98%85) | Presenton | [![merged PRs](https://img.shields.io/github/issues-search/presenton/presenton?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/presenton/presenton/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Desktop app startup |
+| [**LightRAG**](https://github.com/HKUDS/LightRAG) ![stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/LightRAG?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/LightRAG/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Document parser engines |
 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | HKUDS | [![merged PRs](https://img.shields.io/github/issues-search/HKUDS/DeepTutor?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Runtime cancellation, LLM streaming |
+| [**Presenton**](https://github.com/presenton/presenton) ![stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&label=%E2%98%85) | Presenton | [![merged PRs](https://img.shields.io/github/issues-search/presenton/presenton?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/presenton/presenton/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Desktop app startup |
+| [**pycrdt**](https://github.com/y-crdt/pycrdt) ![stars](https://img.shields.io/github/stars/y-crdt/pycrdt?style=flat-square&label=%E2%98%85) | y-crdt | [![merged PRs](https://img.shields.io/github/issues-search/y-crdt/pycrdt?query=is%3Apr%20is%3Amerged%20author%3Ahyeonsang010716&label=PRs&color=2ea44f&style=flat-square)](https://github.com/y-crdt/pycrdt/pulls?q=is%3Apr+is%3Amerged+author%3Ahyeonsang010716) | Transaction safety, error handling |
 
 <details>
 <summary><b>Highlights by project</b></summary>
@@ -138,19 +139,23 @@
 **Dify · dify-plugins**
 - [Published my OpenDocKit plugin to the Dify Marketplace, adding the HWP/HWPX support Dify's built-in extractors lack](https://github.com/langgenius/dify-plugins/pull/3792)
 
+**HKUDS · LightRAG**
+- [Got OpenDocKit listed as the first published parser engine in LightRAG's docs](https://github.com/HKUDS/LightRAG/pull/4690)
+- [Fixed the parser debug CLI failing on every run in a core install](https://github.com/HKUDS/LightRAG/pull/4694)
+
+**HKUDS · DeepTutor**
+- [Raised streamed provider errors instead of answering with them](https://github.com/HKUDS/DeepTutor/pull/1298)
+- [Cancelled the capability when a turn is stopped](https://github.com/HKUDS/DeepTutor/pull/1413)
+
+**Presenton · presenton**
+- [Fixed port probing that marked busy ports as free on macOS, breaking desktop app startup](https://github.com/presenton/presenton/pull/1027)
+
 **y-crdt · pycrdt**
 - [Fixed snapshots freezing the whole process when taken inside a transaction](https://github.com/y-crdt/pycrdt/pull/466)
 - [Turned Rust panics and silently dropped values into Python errors](https://github.com/y-crdt/pycrdt/pull/477)
 - [Kept a document usable after an observer callback raises](https://github.com/y-crdt/pycrdt/pull/465)
 - [Stopped `UndoManager` from losing undo steps during a transaction](https://github.com/y-crdt/pycrdt/pull/472)
 - [Let observers save or broadcast a document without panicking](https://github.com/y-crdt/pycrdt/pull/481)
-
-**Presenton · presenton**
-- [Fixed port probing that marked busy ports as free on macOS, breaking desktop app startup](https://github.com/presenton/presenton/pull/1027)
-
-**HKUDS · DeepTutor**
-- [Raised streamed provider errors instead of answering with them](https://github.com/HKUDS/DeepTutor/pull/1298)
-- [Cancelled the capability when a turn is stopped](https://github.com/HKUDS/DeepTutor/pull/1413)
 
 </details>
 
